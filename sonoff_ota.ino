@@ -12,11 +12,15 @@ const char* host = "esp8266-webupdate";
 const char* ssid = "WAKANDA";
 const char* password = "jombloelit";
 
+
+
+
 ESP8266WebServer httpServer(80);
 ESP8266HTTPUpdateServer httpUpdater;
 #define tombol 0
 #define led 13
 #define relay 12
+#define aman 2
 void setup(void) {
 
   Serial.begin(115200);
