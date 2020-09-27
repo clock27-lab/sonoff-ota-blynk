@@ -1,6 +1,4 @@
-/*
-  To upload through terminal you can use: curl -F "image=@firmware.bin" esp8266-webupdate.local/update
-*/
+
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
@@ -22,7 +20,6 @@ ESP8266HTTPUpdateServer httpUpdater;
 #define tombol 0
 #define led 13
 #define relay 12
-#define aman 2
 char auth[] = "jr4JZbDvkPOI-6C7Ra15UTvZsYsIxkYC";
 void setup(void) {
 
