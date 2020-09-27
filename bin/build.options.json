@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=d:\\Project\\Arduino\\sonoff_ota\\bin,build.warn_data_percentage=75,runtime.tools.esptool.path=C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\esptool\\0.4.13,runtime.tools.esptool-0.4.13.path=C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\esptool\\0.4.13,runtime.tools.mkspiffs.path=C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\0.2.0,runtime.tools.mkspiffs-0.2.0.path=C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\0.2.0,runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\1.20.0-26-gb404fb9-2,runtime.tools.xtensa-lx106-elf-gcc-1.20.0-26-gb404fb9-2.path=C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\1.20.0-26-gb404fb9-2",
+  "fqbn": "esp8266:esp8266:esp8285:CpuFrequency=80,VTable=flash,ResetMethod=ck,CrystalFreq=26,FlashSize=1M0,led=2,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,FlashErase=none,UploadSpeed=115200",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10809",
+  "sketchLocation": "d:\\Project\\Arduino\\sonoff_ota\\sonoff_ota.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages"
+}
