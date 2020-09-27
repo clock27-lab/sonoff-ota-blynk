@@ -31,6 +31,11 @@
   },
   {
     "Sourcefile": "d:\\Project\\Arduino\\sonoff_ota\\bin\\sketch\\sonoff_ota.ino.cpp",
+    "Include": "BlynkSimpleEsp8266.h",
+    "Includepath": "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\blynk-library-master\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\Arduino\\sonoff_ota\\bin\\sketch\\sonoff_ota.ino.cpp",
     "Include": "",
     "Includepath": ""
   },
@@ -141,6 +146,26 @@
   },
   {
     "Sourcefile": "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.2\\libraries\\ESP8266HTTPUpdateServer\\src\\ESP8266HTTPUpdateServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\blynk-library-master\\src\\utility\\BlynkDebug.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\blynk-library-master\\src\\utility\\BlynkHandlers.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\blynk-library-master\\src\\utility\\BlynkTimer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\blynk-library-master\\src\\utility\\utility.cpp",
     "Include": "",
     "Includepath": ""
   }

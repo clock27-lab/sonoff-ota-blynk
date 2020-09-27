@@ -130,4 +130,30 @@ d:\Project\Arduino\sonoff_ota\bin\sketch\sonoff_ota.ino.cpp.o: \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\libraries\ESP8266WiFi\src/WiFiUdp.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\cores\esp8266/Udp.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\libraries\ESP8266WiFi\src/include/slist.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\libraries\ESP8266HTTPUpdateServer\src/ESP8266HTTPUpdateServer.h
+ C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\libraries\ESP8266HTTPUpdateServer\src/ESP8266HTTPUpdateServer.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/BlynkSimpleEsp8266.h \
+ C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2/tools/sdk/include/version.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/BlynkApiArduino.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkApi.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkConfig.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkDetectDevice.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkDebug.h \
+ C:\Users\SangengoN\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2/tools/sdk/include/os_type.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkParam.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkTimer.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkHandlers.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkProtocolDefs.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkProtocol.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/utility/BlynkUtility.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Adapters/BlynkArduinoClient.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/BlynkWidgets.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetLED.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/Blynk/BlynkWidgetBase.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetLCD.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetTerminal.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetBridge.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetTimeInput.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/utility/BlynkDateTime.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetTable.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetGPS.h \
+ C:\Users\SangengoN\Documents\Arduino\libraries\blynk-library-master\src/WidgetMap.h
